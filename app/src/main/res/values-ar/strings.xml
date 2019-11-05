@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorMyView</string>
+    <string name="box_five">الصندوق الخامس</string>
+    <string name="box_four">الصندوق الخامس</string>
+    <string name="box_one">الصندوق الخامس</string>
+    <string name="box_three">الصندوق الخامس</string>
+    <string name="name">الصندوق الخامس</string>
+    <string name="this_is_a_boy">الصندوق الخامس</string>
+    <string name="box_two">الصندوق الثاني</string>
+    <string name="what_is_your_name">"ما اسمك؟  "</string>
+</resources>
